@@ -1,1 +1,13 @@
 <?php
+
+/*
+ * implement hook_permission
+ */
+function buy_me_coffee_permission() {
+    return array(
+        'administer buy me coffee' => array(
+            'title' => t('Administer buy me coffee'),
+            'description' => t('Grant access to change settings'),
+        ),
+    );
+}

@@ -1,0 +1,4 @@
+name = Paystack buy me coffee
+description = Provides a functionality for sitebuilders to add donation button to drupal using block
+package = druphub
+core = 7.x

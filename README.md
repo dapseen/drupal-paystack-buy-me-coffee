@@ -1,8 +1,9 @@
-# Drupal 7 paystack buy me a coffee
+# Drupal 7 Paystack Buy Me Coffee
 It seems the adoption of drupal CMS in ecommerce is kinda poor here in Nigeria, as a Drupal evangelist always preaching and
  reconciling developers to drupal i have decided to start my open source series of drupal 7 modules first and then move to drupal 8.
  
  ## Features
+ 
  This is a simple module that allow sitebuilder to place a **donate button** on the website, so users can donate to their page, 
  it comes with four varieties of button to click
 
